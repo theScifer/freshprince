@@ -1,0 +1,33 @@
+body {
+	background: black;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	font-family: Helvetica, Arial;
+	color: white;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+ul {
+	color: gray;
+	list-style: none;
+}
+
+a {
+	padding-left: 25px;
+	text-decoration: none;
+	color: #300000;
+}
+
+a:hover {
+	color: #00FFFF;
+}
